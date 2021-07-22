@@ -51,21 +51,3 @@ a:visited{
     font-family: sans-serif;
     
 }
-.grid img{
-    border: 2px solid black;
-    border-radius: 50px;
-}
-.origami {
-    
-    border-radius: 20px;
-    background-color: #ffffff;
-    padding: 30px;
-    margin: 25px;
-    width:310px;
-    font-family: fantasy;
-    
-}
-.origami:hover{
-
-    transform: scale(1.2);
-}
